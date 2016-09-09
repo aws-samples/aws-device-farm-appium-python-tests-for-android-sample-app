@@ -1,0 +1,9 @@
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
+requirements.txt
+selenium/
+wheelhouse/
+*.pyc
